@@ -3,7 +3,7 @@ Notes from Course and Implementations
 
 Refer to wiki for notes. Feel free to contribute by forking and creating pull requests.
 
-cocalc.com for sage math implementation
+cocalc.com for sage math implementation. If you are interested, I can add you to the cocalc project. 
 
 # List of constructions
 Latin Squares and Steiner Systems 
