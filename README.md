@@ -9,6 +9,5 @@ cocalc.com for sage math implementation. If you are interested, I can add you to
 Latin Squares and Steiner Systems 
 https://cocalc.com/share/6eea0c55-8c37-4d10-864b-4c9224c9c43c/TutorialSheet3Solutions.sagews?viewer=share
 
-Schläfi Double-Six
+Schläfi Double-Six, ie SRG(27,10,1,5). Size of its automorphism group: 51840.
 https://cocalc.com/share/6eea0c55-8c37-4d10-864b-4c9224c9c43c/Schlafi_graph_automorphisms.sagews?viewer=share
-
