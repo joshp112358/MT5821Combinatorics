@@ -11,3 +11,7 @@ https://cocalc.com/share/6eea0c55-8c37-4d10-864b-4c9224c9c43c/TutorialSheet3Solu
 
 Schläfi Double-Six, ie SRG(27,10,1,5). Size of its automorphism group: 51840.
 https://cocalc.com/share/6eea0c55-8c37-4d10-864b-4c9224c9c43c/Schlafi_graph_automorphisms.sagews?viewer=share
+
+Hadamard Matrices
+https://cocalc.com/share/6eea0c55-8c37-4d10-864b-4c9224c9c43c/HadamardMatrices.sagews?viewer=share
+
