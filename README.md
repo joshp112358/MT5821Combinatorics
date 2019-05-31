@@ -18,5 +18,7 @@ https://cocalc.com/share/6eea0c55-8c37-4d10-864b-4c9224c9c43c/HadamardMatrices.s
 
 ### To do
 embedding L(k33) on a torus.
-difference sets of a steiner system. 
+difference sets of a steiner system. In 1847 Kirkman proved that any
+tridivisible complete graph has a triangle decomposition; equivalently, there
+is a Steiner Triple System on n vertices if n is 1 or 3 mod 6. 
 
