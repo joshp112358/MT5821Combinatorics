@@ -10,7 +10,7 @@ https://cocalc.com/share/6eea0c55-8c37-4d10-864b-4c9224c9c43c/Challenge.sagews?v
 https://cocalc.com/projects/6eea0c55-8c37-4d10-864b-4c9224c9c43c/files/rshcds.sagews?session=default
 
 ### 2 Infinite Families of Strongly Regular Graphs
-https://cocalc.com/projects/6eea0c55-8c37-4d10-864b-4c9224c9c43c/files/TutorialSheet3Solutions.sagews?session=default
+https://cocalc.com/share/6eea0c55-8c37-4d10-864b-4c9224c9c43c/TutorialSheet3Solutions.sagews?viewer=share
 
 ### Sylvesters Construction of Hadamard Matrices via Kronecker Products. 
 https://cocalc.com/share/6eea0c55-8c37-4d10-864b-4c9224c9c43c/HadamardMatrices.sagews?viewer=share
